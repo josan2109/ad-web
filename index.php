@@ -7,7 +7,7 @@
  
   <?php
  
- echo "¡Hola mundo! <br>";
+ echo "¡Hola pepe! <br>";
  
  for($i = 0; $i < 10; $i++)
   {
